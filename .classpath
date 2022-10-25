@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/license.jar"/>
+	<classpathentry kind="lib" path="xlib/jakrata-regexp-1.2.jar"/>
+	<classpathentry kind="lib" path="xlib/bcprov-jdk15on-151.jar"/>
+	<classpathentry kind="lib" path="conf"/>
+	<classpathentry kind="lib" path="xlib/log4j-api-2.8.2.jar"/>
+	<classpathentry kind="lib" path="xlib/log4j-core-2.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
